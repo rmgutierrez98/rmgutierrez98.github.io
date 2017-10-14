@@ -1,0 +1,26 @@
+{
+  "name": "marketing",
+  "version": "1.0.0",
+  "description": "aqui podras encontrar todo lo relacionado con marketing digital",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "monetizacion",
+    "social",
+    "media",
+    "marketing",
+    "digital"
+  ],
+  "author": "Melissa Gutierrez",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-server-livereload": "^1.9.2"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "materialize-css": "^0.100.2"
+  }
+}
